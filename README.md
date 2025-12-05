@@ -76,7 +76,7 @@ This project demonstrates the full end-to-end workflow:
 
 ## ⚙️ Folder Structure  
 
-stock-sentiment-project/
+```stock-sentiment-project/
 ├── data/
 │ ├── Sentiment_Stock_data.csv # Kaggle dataset (labeled sentiment)
 │ ├── finviz_AAPL.csv # FinViz headlines for AAPL (example)
@@ -92,7 +92,7 @@ stock-sentiment-project/
 ├── demo.py # FinBERT headline demo script
 ├── requirements.txt # dependencies list
 └── README.md
-
+```
 
 ---
 
