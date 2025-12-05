@@ -30,7 +30,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 # CONFIGURATION
 # =========================
 
-TICKER = "GOOG"
+TICKER = "GOOG" #Simply change this ticker symbol to whichever ticker you want to run the sentiment analysis on
 
 PRICE_START_DATE = "2014-01-01"
 PRICE_END_DATE = "2024-01-01"
