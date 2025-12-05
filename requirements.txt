@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+nltk
+yfinance
+shap
+matplotlib
+tqdm
+joblib
+requests
+beautifulsoup4
+transformers
+torch
