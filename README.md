@@ -110,6 +110,7 @@ data/finviz_<TICKER>.csv
 
 ### Run the training pipeline:
 python stock_sentiment_pipeline.py
+Change ticker symbol in stock_sentiment_pipeline.py file to get analysis for stock of choice
 
 ### Example Output
 === Stock movement prediction with price + FinBERT sentiment ===
