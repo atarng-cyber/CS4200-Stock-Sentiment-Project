@@ -75,10 +75,7 @@ This project demonstrates the full end-to-end workflow:
 ---
 
 ## ⚙️ Folder Structure  
-<<<<<<< HEAD
-=======
 
->>>>>>> b4a967b5 (add)
 ```
 stock-sentiment-project/
 ├── data/
